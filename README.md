@@ -100,6 +100,12 @@ A sports car racing on a track.
 ### Observation
 
 The generated video showed a car moving on a track, but the scene was fairly simple. The racing environment had limited detail and the speed of the car was not very convincing. The camera movement was also basic.
+### video
+
+
+https://github.com/user-attachments/assets/9c87dd7b-0828-4bb9-8e7e-217ba9899355
+
+
 
 ### Assessment
 
@@ -139,6 +145,12 @@ blurry, distorted, low quality
 ### Observation
 
 The additional details produced a more recognizable racing scene. The track, barriers and background became more visible. The car appeared to move faster and the side-following camera created a better sense of action.
+###video
+
+
+
+https://github.com/user-attachments/assets/864589dd-afda-4d37-8ae4-0aa5c571ff9d
+
 
 ### Assessment
 
@@ -180,6 +192,13 @@ blurry, distorted car, deformed wheels, low quality, pixelated
 ### Observation
 
 The style-based prompt produced a more realistic racing environment. The car had better surface reflections and the track contained more visual detail. Motion blur helped communicate speed and the cinematic lighting improved the overall appearance.
+
+###video
+
+
+https://github.com/user-attachments/assets/396c2427-4169-47c0-bef5-ae3ee26f860a
+
+
 
 ### Assessment
 
