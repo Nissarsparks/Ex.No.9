@@ -1,8 +1,5 @@
 # Ex.No.9 – Exploration of Prompting Techniques for Video Generation
 
-**Date:** _________________________
-**Reg. No.:** _________________________
-
 ## Title
 
 **Exploration of Prompting Techniques for AI Video Generation**
